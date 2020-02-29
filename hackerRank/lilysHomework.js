@@ -1,3 +1,7 @@
+/**
+ * original problem on hackerRank:
+ * https://www.hackerrank.com/challenges/lilys-homework/problem
+ */
 function lilysHomework(arr) {
   function count(arr) {
     let D = {};
